@@ -1,7 +1,7 @@
 # Definir_matriz 3x3
 matriz = [
     [13, 15, 17],
-    [21, 23, 25],
+    [21, 39, 25],
     [31, 35, 37]
 ]
 # Definir_valor
